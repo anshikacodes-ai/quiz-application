@@ -8,6 +8,8 @@ A beginner-friendly multiple choice quiz application developed using python.
 -Percentage calculation
 -Grade calculation
 -Play again option
+
+
 ##Python concepts used
 -variables
 -Lists
@@ -18,4 +20,5 @@ A beginner-friendly multiple choice quiz application developed using python.
 -User input
 -Random module
 -String methods
+
 
